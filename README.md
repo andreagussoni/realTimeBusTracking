@@ -1,7 +1,7 @@
 # realTimeBusTracking
 
 <html>
-  <body style="background-color: #000000">
+  <body style="background-color: #000000; color: #ffffff">
     This is a project developped during my course at MIT, 
 using the mapbox js library a developed a real time tracker that adds on the map a blue marker every 15 secs
 that highligths the position of a bus i took when i was on a campus in emmanuel college in Boston.
