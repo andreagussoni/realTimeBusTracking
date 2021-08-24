@@ -14,3 +14,18 @@ body { margin: 0; padding: 0; }
     border: solid black; 
     border-radius: 20px;
 }
+
+a {
+    position: absolute;
+    font-size: 2em;
+    color: yellow;
+    top: 0;
+    right: 0;
+    text-decoration: none;
+    padding: 5px;
+  }
+  
+  a:hover {
+      text-decoration: underline;
+      color: blue;
+  }
