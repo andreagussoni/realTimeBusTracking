@@ -8,7 +8,7 @@ I plan on improving this project with some additional features and betterlooking
 
 To use this program download the three files in a directory and open the html file. Or you can just go to 
 
-    andreagussoni.github.io/realTimeBusTracking
+andreagussoni.github.io/realTimeBusTracking
 
 MIT License
 
