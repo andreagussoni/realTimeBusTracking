@@ -1,14 +1,12 @@
 # realTimeBusTracking
 
-<html>
-  <body style="background-color: #000000; color: #ffffff; font-size: 2em;">
     This is a project developped during my course at MIT, 
 using the mapbox js library a developed a real time tracker that adds on the map a blue marker every 15 secs
 that highligths the position of a bus i took when i was on a campus in emmanuel college in Boston.
 The golden marker highligths the position of emmanuel college on the map, the button on top runs the functions to make it work.
 I plan on improving this project with some additional features and betterlooking elements.<br>
 
-To use this program download the three files in a directory and open the html file.
+To use this program download the three files in a directory and open the html file. Or you can just go to andreagussoni.github.io/realTimeBusTracking
 MIT License<br>
 
 Copyright (c) 2020 John Williams<br>
@@ -31,8 +29,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.<br>
     
-    <a href="https://github.com/andreagussoni/realTimeBusTracking" style="background-color: #000000; color: #ffffff; border-radius: 20px;">GitHub repositorie</a>
+    
 
-  </body>
-</html>
+  
 
